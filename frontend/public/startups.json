@@ -1,0 +1,3296 @@
+[
+  {
+    "name": "Reefilla",
+    "location": "Turin, Italy",
+    "founders": "Marco Bevilacqua, Pietro Balda, and Gabriele Bergoglio",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/12/turin-based-reefilla-raises-e1-8-million-to-advance-sustainable-energy-solutions/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "Breed Reply",
+    "location": "London",
+    "founders": "Emanuele Angelidis",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2018/02/interview-with-manuele-angelidis-ceo-breed-reply/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Beintoo",
+    "location": "Milan, Italy",
+    "founders": "Antonio Tomarchio and Filippo Privitera",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2011/01/italian-startup-beintoo-closes-angel-round-to-gamify-mobile-apps/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Actijoy",
+    "location": "Czech",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2017/04/meet-the-15-startups-that-made-it-to-the-finals-of-our-pitch-competition-on-april-13-in-berlin/",
+    "lat": 50.0864234,
+    "lng": 14.4156772
+  },
+  {
+    "name": "Mirai Robotics",
+    "location": "Puglia, Italy",
+    "founders": "Luciano Belviso, Luca Mascaro, and Davide Dattoli",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/03/italys-ai-robotics-startup-mirai-robotics-raises-e3-6-million-to-build-autonomous-systems-for-maritime-operations/",
+    "lat": 40.9842539,
+    "lng": 16.6210027
+  },
+  {
+    "name": "Wearable Robotics",
+    "location": "Pisa, Italy",
+    "founders": "Not specified in the article",
+    "website": "Not specified in the article",
+    "article_url": "https://www.eu-startups.com/2026/04/italys-wearable-robotics-closes-e5-million-series-a-to-scale-neuromotor-rehabilitation-robotics-and-exoskeletons/",
+    "lat": 43.4714722,
+    "lng": 10.6797912
+  },
+  {
+    "name": "Kisi",
+    "location": "Stockholm, New York",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2019/03/startup-jobs-of-the-week-kisi-netrivals-blueoptima-and-vitrealab-are-hiring/",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "name": "Playtomic",
+    "location": "Madrid",
+    "founders": "Pedro Claver\u00eda",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/07/madrid-based-playtomic-acquires-milan-based-prenotauncampo-to-become-europes-leading-racket-sports-app/",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "name": "Mopapp",
+    "location": "London",
+    "founders": "Alessandro Rizzoli, Marco Bellinaso and Federico Sita",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2012/03/the-bologna-connection-mopapp-receives-e15m-from-crif/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Mopapp",
+    "location": "Bologna, Italy",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2011/04/the-two-winners-of-seedcamp-berlin/",
+    "lat": 44.4938203,
+    "lng": 11.3426327
+  },
+  {
+    "name": "Bending Spoons",
+    "location": "Milan",
+    "founders": "Luca Ferrari",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/08/italys-bending-spoons-raises-over-e500-million-to-turbocharge-tech-acquisitions/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Waynaut",
+    "location": "Milan",
+    "founders": "N/A",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2015/01/5-italian-startups-to-look-out-for-in-2015/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Casavo",
+    "location": "Milan, Italy",
+    "founders": "Giorgio Tinacci",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/03/italian-proptech-startup-casavo-lands-e200-million-to-change-the-way-people-sell-live-and-buy-homes-in-europe/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "BeSafe Group",
+    "location": "Italy",
+    "founders": "Alessandro Bartolucci",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2022/04/rome-based-besafe-group-secures-e1-2-million-for-its-insurtech-for-the-travel-industry/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Tsuga",
+    "location": "Paris",
+    "founders": "Gabriel-James Safar",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/french-observability-startup-tsuga-lands-e30-million-to-expand-ai-agent-platform/",
+    "lat": 48.8588897,
+    "lng": 2.320041
+  },
+  {
+    "name": "SWITCH",
+    "location": "Rome",
+    "founders": "Matteo Forte",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/02/e946k-for-switch-to-innovate-urban-mobility-and-logistics-with-ai/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "spreaker",
+    "location": "Italy",
+    "founders": "N/A",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2010/10/spreaker-from-italy-is-socializing-internet-radio/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "AIxBlock",
+    "location": "U.S.",
+    "founders": "N/A",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/08/us-ai-startup-aixblock-plugs-into-europes-idle-data-centres-with-e1-5-million-eu-grant-and-potential-e61-5-million-funding/",
+    "lat": 39.7837304,
+    "lng": -100.445882
+  },
+  {
+    "name": "Alsendo",
+    "location": "Warsaw",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/07/warsaw-based-alsendo-expands-into-western-europe-with-the-acquisition-of-italian-shipping-platform-spedire-com/",
+    "lat": 52.2319581,
+    "lng": 21.0067249
+  },
+  {
+    "name": "Guidoio",
+    "location": "Milan, Italy",
+    "founders": "Franz Uhl, Lorenzo Mannari",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/02/milan-based-guidoio-picks-up-e700k-pre-seed-to-digitize-italys-driving-school-industry/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Lexroom",
+    "location": "Milan, Italy",
+    "founders": "Paolo Fois, Martina Domenicali, Andrea Lonza",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2026/05/italian-ai-legaltech-startup-lexroom-raises-e42-9-million-series-b-eight-months-after-e16-2-million-series-a/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Eventbrite",
+    "location": "US",
+    "founders": "Julia Hartz, Kevin Hartz, and Renaud Visage",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2025/12/italys-trailblazer-bending-spoons-adds-eventbrite-to-portfolio-in-e430-million-all-cash-acquisition/",
+    "lat": 39.7837304,
+    "lng": -100.445882
+  },
+  {
+    "name": "Aryel",
+    "location": "Milan",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2023/02/milan-based-aryel-raises-e3-7-million-to-empower-a-new-era-of-ar-based-content/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Translated",
+    "location": "Rome, Italy",
+    "founders": "Marco Trombetti",
+    "website": "Translated.com",
+    "article_url": "https://www.eu-startups.com/2019/01/marco-trombetti-the-founder-ceo-of-translated-com-and-pi-campus-will-speak-at-our-eu-startups-summit-on-may-2-3-in-barcelona/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Japal.it",
+    "location": "Milan",
+    "founders": "Paolo Broglia and Jacopo Moschini",
+    "website": "Japal.it",
+    "article_url": "https://www.eu-startups.com/2020/04/japal-raises-e300k-to-deliver-grocery-and-home-brands-to-italians-in-quarantine/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "misterb&b",
+    "location": "France",
+    "founders": "Matthieu Jost",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/08/rainbow-capitalism-european-startups-that-are-successfully-serving-the-gay-community/",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "name": "Cleafy",
+    "location": "Milan",
+    "founders": "Matteo Bogana, Niccol\u00f2 Pastore, Carmine Giangregorio",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/09/milan-based-cleafy-secures-e10-million-to-prevent-online-banking-fraud-in-real-time/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Mr. Jeff",
+    "location": "Spain",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/03/saving-time-for-women-and-men-on-the-go-10-startups-that-help-with-household-tasks/",
+    "lat": 39.3260685,
+    "lng": -4.8379791
+  },
+  {
+    "name": "Resalis Therapeutics",
+    "location": "Torino, Italy",
+    "founders": "N/A",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/01/torino-based-resalis-raises-e10-million-series-a-to-provide-a-therapeutic-that-reduces-fat-mass-in-obesity/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "MSing with Trauma / MSing with Crowds",
+    "location": "Romania",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2020/09/join-eit-health-innostars-awards-and-meet-europes-15-most-promising-healthcare-startups-in-2020-sponsored/",
+    "lat": 45.9852129,
+    "lng": 24.6859225
+  },
+  {
+    "name": "Acodyne",
+    "location": "Copenhagen",
+    "founders": "Mads Schnack, Claes Nicolaisen, Martin Arndt, Jasmina Pless",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/06/unmanned-cargo-aircraft-developer-acodyne-secures-e2-5-million-for-defence-and-offshore-logistics/",
+    "lat": 55.6867243,
+    "lng": 12.5700724
+  },
+  {
+    "name": "AMPYR Solar Europe",
+    "location": "London",
+    "founders": "Not specified",
+    "website": "Not specified",
+    "article_url": "https://www.eu-startups.com/2024/06/rays-of-innovation-10-european-startups-shaping-the-future-of-solar-power/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Freeda Media",
+    "location": "Milan",
+    "founders": "Andrea Scotti Calderini and Gianluigi Casole",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2018/05/milan-based-freeda-media-raises-10-million-series-a-to-delight-more-millennial-women-with-their-premium-content/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "EpiCura",
+    "location": "Italy",
+    "founders": "Gianluca Manitto, Alessandro Ambrosio",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/09/italy-based-epicura-lands-e5-million-for-its-digital-health-platform/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Building Radar",
+    "location": "UK",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2020/10/meet-the-20-european-scaleups-that-made-it-into-the-finals-of-this-years-eit-digital-challenge/",
+    "lat": 54.7023545,
+    "lng": -3.2765753
+  },
+  {
+    "name": "Chatterbox",
+    "location": "UK",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2018/09/10-european-startups-tackling-the-refugees-crisis/",
+    "lat": 54.7023545,
+    "lng": -3.2765753
+  },
+  {
+    "name": "Hotelyo",
+    "location": "Milan, Italy",
+    "founders": "Babotel and Jakala",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2010/12/italian-startup-hotelyo-raised-1-million-e-in-angel-round/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "StartuppaMI",
+    "location": "Milan",
+    "founders": "Marco Ottolini",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2013/02/the-new-year-brings-the-first-startuppami-meet-up-of-2013/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "TeiaCare",
+    "location": "Milan, Italy",
+    "founders": "Luca Iozzia, Guido Magrin, Roberto Salamina",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2019/11/italian-healthtech-startup-teiacare-raises-e1-1-million-in-funding-for-pioneering-monitoring-technology/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Gaussion",
+    "location": "London",
+    "founders": "Tom Heenan",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/from-charging-evs-and-drones-to-powering-data-centres-london-based-gaussion-raises-e24-5-million/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Switcho",
+    "location": "Milan",
+    "founders": "Marco Tricarico, Redi Vyshka, and Francesco Laffi",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/02/the-italian-ecosystem-and-building-strong-fintech-teams-interview-with-marco-tricarico-founder-and-ceo-of-switcho/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "HR Duo",
+    "location": "Ireland",
+    "founders": "Jerome Forde (CEO)",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/amid-a-e500-700-million-sme-hrtech-opportunity-irelands-hr-duo-secures-e1-6-million-for-growth/",
+    "lat": 52.865196,
+    "lng": -7.9794599
+  },
+  {
+    "name": "Akamas",
+    "location": "Milan",
+    "founders": "Luca Forni and Stefano Doni",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/02/akamas-secures-e9-6-million-to-expand-into-the-us-and-accelerate-cloud-optimisation/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Lucida AI",
+    "location": "London",
+    "founders": "Mustafa Girgin and M. Sait Demirci",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/06/uk-speech-ai-startup-lucida-ai-lands-e6-1-million-to-develop-speech-native-ai-for-global-communication/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Step Venture",
+    "location": "Milan",
+    "founders": "Maria Imbesi, Roberto Montandon, Michele Novelli, Gennaro Tesone",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/11/new-e30-million-step-fund-targets-early-stage-italian-startups-with-international-growth-potential/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "BizAway",
+    "location": "Milan, Italy",
+    "founders": "Luca Carlucci",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/07/milan-based-scaleup-bizaway-bags-e10-million-to-consolidate-operations-in-the-business-travel-sector/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Involve",
+    "location": "Lipomo, Italy",
+    "founders": "Jonathan Polotto, Claudio",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/09/italian-company-involve-secures-e2-5-million-round-for-stratospheric-balloon-tech/",
+    "lat": 45.7945033,
+    "lng": 9.1216456
+  },
+  {
+    "name": "Dreamfarm",
+    "location": "Parma, Italy",
+    "founders": "Maddalena Zanoni and Mattia Sandei",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/11/parma-based-dreamfarm-snaps-e5-million-to-create-an-innovation-hub-for-plant-based-cheese-alternatives/",
+    "lat": 44.6952006,
+    "lng": 10.0979869
+  },
+  {
+    "name": "MIND Music Labs",
+    "location": "Stockholm, Sweden",
+    "founders": "Michele Benincaso",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2015/11/stockholm-based-mind-music-labs-presents-the-worlds-first-smart-guitar-at-web-summit-2015/",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "name": "Houdini Bio",
+    "location": "UK",
+    "founders": "Jonathan Cohen-Gold",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/houdini-bio-emerges-from-stealth-with-e1-7-million-to-tackle-dna-silencing-in-gene-therapies/",
+    "lat": 54.7023545,
+    "lng": -3.2765753
+  },
+  {
+    "name": "Cloudsmith",
+    "location": "Belfast, UK",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/11/european-startups-helping-reduce-the-risk-of-outages-like-todays-cloudflare-disruption/",
+    "lat": 54.596391,
+    "lng": -5.9301829
+  },
+  {
+    "name": "Bricks.sh",
+    "location": "Milan, Italy",
+    "founders": "Dario Di Carlo, Giuliano Torregrossa",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/01/with-a-third-of-developer-time-spent-on-internal-tools-milans-bricks-sh-raises-e1-6-miliion-to-automate-admin-panels/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Antlos",
+    "location": "Venice",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2016/01/5-italian-startups-to-look-out-for-in-2016/",
+    "lat": 45.4046171,
+    "lng": 12.3105232
+  },
+  {
+    "name": "IdentifAI",
+    "location": "Milan",
+    "founders": "Marco Ramilli",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/09/milan-based-identifai-gets-e2-2-million-to-detect-fake-ai-generated-content-online/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "BaseTrack",
+    "location": "Estonia",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2024/06/we-make-future-2024-meet-the-startup-competition-winners-sponsored/",
+    "lat": 58.7523778,
+    "lng": 25.3319078
+  },
+  {
+    "name": "Vikey",
+    "location": "Italy",
+    "founders": "Not specified in the article",
+    "website": "Not specified in the article",
+    "article_url": "https://www.eu-startups.com/2020/11/italian-startup-vikey-lands-e800k-to-enable-self-check-in-for-accomodation/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "WeRoad",
+    "location": "Milan",
+    "founders": "Andrea D\nAmico (CEO)",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2023/11/milan-based-weroad-takes-off-with-e18-million-series-b-to-reinvent-group-adventure-travel-for-millennials/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Deliveristo",
+    "location": "Milan",
+    "founders": "Ivan Aimo, Luca Calia, Gabriele Angeleri",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/12/milan-based-deliveristo-secures-e4-5-million-to-digitally-connect-suppliers-and-restaurant-owners/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "INsure",
+    "location": "Portugal",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/06/insurtech-healthtech-wellbeing-startups-join-the-insure-acceleration-programme-sponsored/",
+    "lat": 39.6621648,
+    "lng": -8.1353519
+  },
+  {
+    "name": "Faba",
+    "location": "Treviso, Italy",
+    "founders": "Matteo Fabbrini",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/08/italys-edtech-startup-faba-gets-serious-with-e4-5-million-to-expand-its-screen-free-storytelling-magic-in-spain/",
+    "lat": 45.8066913,
+    "lng": 12.2063158
+  },
+  {
+    "name": "VICIO",
+    "location": "Barcelona",
+    "founders": "",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/10/from-seed-funding-to-sesame-seeds-6-european-startups-shaping-the-burger-game/",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "name": "Talent Garden",
+    "location": "Brescia, Italy",
+    "founders": "N/A",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2019/03/italian-startup-talent-garden-raises-e44-million-to-open-more-co-working-spaces-throughout-europe/",
+    "lat": 45.7795805,
+    "lng": 10.425873
+  },
+  {
+    "name": "Algorithmiq",
+    "location": "Milan, Italy",
+    "founders": "Dr Sabrina Maniscalco, Guillermo Garc\u00eda-P\u00e9rez, Matteo Rossi, Boris Sokolov",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/05/quantum-software-startup-algorithmiq-raises-e18-million-and-moves-global-hq-from-helsinki-to-milan/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Lexroom",
+    "location": "Milan, Italy",
+    "founders": "Paolo Fois, Martina Domenicali, and Andrea Lonza",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/09/italian-genai-legal-platform-lexroom-closes-e16-million-funding-round/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Tot",
+    "location": "Milan, Italy",
+    "founders": "Doris Messina, Bruno Reggiani, Andrea Susta",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/11/fintech-startup-from-milan-tot-closes-e2-million-funding-ahead-of-2022-market-entry/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Titan4",
+    "location": "Rome, Italy",
+    "founders": "Giovanni Quacquarelli",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/10/italian-spacetech-startup-titan4-lands-e4-million-to-scale-its-earth-intelligence-platform-through-satellite-data/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "AppQuality",
+    "location": "Milan, Italy",
+    "founders": "Luca Manara, Edoardo Vannutelli, Filippo Renga",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/05/milan-based-appquality-nabs-e3-5-million-for-its-crowd-testing-platform/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "United Ventures",
+    "location": "Italy",
+    "founders": "Massimiliano Magrini and Paolo Gesess",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2020/07/tim-launches-e150-million-fund-for-late-stage-innovative-enterprises-in-italy-and-europe/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Entrepreneur First",
+    "location": "London",
+    "founders": "Alice Bentinck",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2018/10/top-50-europes-most-influential-women-in-the-startup-and-venture-capital-space-3/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Bestie Bite",
+    "location": "Rome, Italy",
+    "founders": "Carlotta Robbe Di Lorenzo and Caterina Vertefeuille",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/06/italys-female-founded-hospitalitytech-startup-bestie-bite-raises-e1-5-million-to-expand-its-video-review-app-in-the-us/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Filo",
+    "location": "Rome",
+    "founders": "Giorgio Sadolfo (CEO mentioned, but founders not explicitly listed)",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2020/04/filo-raises-e2-5-million-to-boost-its-smart-alarm-for-kids-car-seats/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "BAGBNB",
+    "location": "Rome, Italy",
+    "founders": "Alessandro Seina, Giulio De Donato, Giacomo Piva",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/01/rome-based-bagbnb-raises-e2-5-million-to-become-worlds-largest-luggage-storage-network/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Aindo",
+    "location": "Trieste",
+    "founders": "Daniele Panfilo",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/10/trieste-based-aindo-bags-e6-million-series-a-to-use-synthetic-data-for-training-machine-learning-models/",
+    "lat": 45.6496485,
+    "lng": 13.7772781
+  },
+  {
+    "name": "Satispay",
+    "location": "Milan, Italy",
+    "founders": "Alberto Dalmasso",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2022/09/milan-based-payment-network-satispay-exceed-e1-billion-valuation-and-becomes-an-italian-unicorn/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Wayve",
+    "location": "UK",
+    "founders": "Not mentioned in the article",
+    "website": "Not mentioned in the article",
+    "article_url": "https://www.eu-startups.com/2026/06/british-business-bank-portfolio-passes-50-companies-after-e695-million-scale-up-push/",
+    "lat": 54.7023545,
+    "lng": -3.2765753
+  },
+  {
+    "name": "Contents",
+    "location": "Milan",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/12/innovators-to-watch-10-early-stage-startups-shaping-milans-future/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Baze",
+    "location": "Aci Castello",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/01/how-sicily-is-reinventing-itself-through-entrepreneurship-10-sicilian-startups-to-watch-in-2026/",
+    "lat": 37.5542111,
+    "lng": 15.14856
+  },
+  {
+    "name": "Maxi Mobility",
+    "location": "Milan",
+    "founders": "Gian Paolo Incutti",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/07/maxi-mobility-lands-e1-2-million-to-electrify-italys-taxis-and-accelerate-zero-emission-mobility/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Young Platform",
+    "location": "Turin, Italy",
+    "founders": "Six Computer Science students from the University of Turin, including Andrea Ferrero (Co-Founder and CEO)",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2021/06/italys-young-platform-nabs-e3-5-million-to-simplifies-access-to-the-world-of-cryptocurrencies/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "Music Magnet",
+    "location": "Paris",
+    "founders": "Fr\u00e9d\u00e9ric H\u00e9rout",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/75000-ai-songs-a-day-but-europes-music-startups-are-looking-somewhere-smarter/",
+    "lat": 48.8588897,
+    "lng": 2.320041
+  },
+  {
+    "name": "MotorK",
+    "location": "Milano, Italy",
+    "founders": "Marco Marlia",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/01/milano-based-automotive-saas-provider-motork-secures-e3-million-to-bolster-its-financial-position/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Cleanzy.com",
+    "location": "London",
+    "founders": "Tayga Baltacioglu",
+    "website": "Cleanzy.com",
+    "article_url": "https://www.eu-startups.com/2019/09/ai-powered-domestic-services-platform-cleanzy-com-launches-in-london/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Avaneidi",
+    "location": "Milan, Italy",
+    "founders": "Dr. Rino Micheloni",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/06/milan-based-avaneidi-secures-e8-million-series-a-to-advance-storage-tech-and-data-security/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Blubrake",
+    "location": "Italy",
+    "founders": "Fabio Todeschini",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/10/italian-e-mobility-scaleup-blubrake-lands-e5-2-million-to-expand-its-innovative-safety-tech-for-e-bikes/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "PRIMA Industries",
+    "location": "Italy",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/08/italy-raises-the-bar-as-tech-investment-soars-past-2020-total-and-its-only-august/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Bliu Bliu",
+    "location": "Lithuania",
+    "founders": "Claudio Santori",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2013/02/bliu-bliu-wins-techchill-baltics-2013/",
+    "lat": 55.3500003,
+    "lng": 23.7499997
+  },
+  {
+    "name": "WeRoad",
+    "location": "Milan",
+    "founders": "Erika De Santi",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2022/12/weroad-co-founder-erika-de-santi-will-speak-at-next-years-eu-startups-summit-on-april-20-21-in-barcelona/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Inflow",
+    "location": "London",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/10/mind-matters-10-promising-early-stage-startups-pioneering-mental-health-advancements-in-europe/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Trustfull",
+    "location": "Milan, Italy",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/07/italian-fraud-prevention-platform-trustfull-raises-e6-million-to-drive-european-expansion/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Mindful Chef",
+    "location": "London",
+    "founders": "Giles, Myles and Rob",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/05/coolest-food-box-startups-speeding-through-2020/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Ad4Ventures",
+    "location": "Italy",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2021/01/boost-your-italy-spain-expansion-with-a-media-for-equitiy-deal-sponsored/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "TheStartup.eu",
+    "location": "Europe",
+    "founders": "Stefano Bernardi",
+    "website": "TheStartup.eu",
+    "article_url": "https://www.eu-startups.com/2014/04/thestartup-eu-and-eu-startups-com-join-forces/",
+    "lat": 51.0,
+    "lng": 10.0
+  },
+  {
+    "name": "WeRoad",
+    "location": "Milan",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2024/02/andrea-damico-ceo-at-weroad-will-speak-at-this-years-eu-startups-summit/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Cloud4Wi",
+    "location": "Cascina, Italy",
+    "founders": "Andrea Calcagno",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2014/03/italian-startup-cloud4wi-closes-4m-series-a-funding-round/",
+    "lat": 43.6766738,
+    "lng": 10.5492244
+  },
+  {
+    "name": "Sibill",
+    "location": "Milan, Italy",
+    "founders": "Mattia Montepara",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/06/milan-based-sibill-secures-e6-2-million-to-simplify-and-automate-financial-operations-for-italian-smbs/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Tuidi",
+    "location": "Putignano, Italy",
+    "founders": "Giulio Martinacci and Vincenzo Morelli",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/10/italys-tuidi-secures-e3-million-to-optimise-grocery-retail-through-ai-driven-store-management/",
+    "lat": 40.8492021,
+    "lng": 17.1226371
+  },
+  {
+    "name": "StepsConnect",
+    "location": "Milan",
+    "founders": "Matteo Trov\u00f2, Nicol\u00f2, Anton",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/04/milan-based-job-search-startup-stepsconnect-raises-e1-million-to-expand-its-recruitment-platform-abroad/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Easyrain",
+    "location": "Rivoli, Italy",
+    "founders": "Giovanni Blandina",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/07/italian-startup-easyrain-secures-e5-8-million-to-keep-saving-more-lives-in-wet-roads/",
+    "lat": 45.0697151,
+    "lng": 7.5176764
+  },
+  {
+    "name": "AID:Tech",
+    "location": "Dublin",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2018/10/10-european-startups-fostering-social-change/",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "name": "Ittinsect",
+    "location": "Rome",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/08/italys-foodtech-renaissance-10-innovative-startups-reshaping-the-culinary-future/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Scalapay",
+    "location": "Milan",
+    "founders": "Simone Mancini",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/01/milan-based-scalapay-raises-e40-million-to-expand-its-buy-now-pay-later-solution/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Doorway",
+    "location": "Italy",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2023/05/seedblink-and-doorway-team-up-to-provide-investors-with-great-investment-opportunities-in-top-tier-european-startups/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Jet HR",
+    "location": "Milan, Italy",
+    "founders": "Marco Ogliengo and Francesco Scalambrino",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/09/milan-based-jet-hr-gets-e12-million-to-eliminate-the-bureaucracy-surrounding-payroll/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "BOOM imagestudio",
+    "location": "Milan, Italy",
+    "founders": "Federico Mattia Dolci, Giacomo, Jacopo",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/03/its-important-to-maintain-certain-habits-in-order-to-find-a-balance-interview-with-boom-imagestudios-founder-federico/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Bending Spoons",
+    "location": "Milan, Italy",
+    "founders": "Luca Ferrari, Matteo Danieli, Francesco Patarnello, Luca Querella",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/milan-based-bending-spoons-files-for-nasdaq-ipo-is-europe-losing-another-tech-contender/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Leaf Space",
+    "location": "Milan, Italy",
+    "founders": "Jonata Puglia",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/01/milan-based-spacetech-startup-leaf-space-secures-e5-million-funding/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Rent2Cash",
+    "location": "Rome, Italy",
+    "founders": "Gianluca Fioranelli, Yilang Chen and Marco Grassi",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/07/rome-based-rent2cash-closes-e3-million-to-launch-rental-advance-platform-for-property-owners/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Supermercato24",
+    "location": "Milan, Italy",
+    "founders": "Not specified in the article",
+    "website": "Not specified in the article",
+    "article_url": "https://www.eu-startups.com/2020/01/milan-based-supermercato24-raises-e11-million-to-expand-its-e-grocery-marketplace-in-europe/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Freeda Media",
+    "location": "Milan, Italy",
+    "founders": "Andrea Scotti Calderini",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/03/andrea-scotti-calderini-ceo-of-freeda-media-will-speak-at-the-eu-startups-summit-on-28-30-april-2021/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Soplaya",
+    "location": "Milan, Italy",
+    "founders": "Mauro Germani",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/11/milan-based-foodtech-soplaya-secures-e12-5-million-to-revolutionise-the-restaurant-supplies-industry/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Cellply",
+    "location": "Bologna, Italy",
+    "founders": "Massimo Bocchi and Roberto Guerrieri",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/09/bologna-based-cellply-secures-e3-6-million-and-sets-sights-on-future-growth/",
+    "lat": 44.4938203,
+    "lng": 11.3426327
+  },
+  {
+    "name": "360 Capital",
+    "location": "Paris",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/12/360-capital-announces-the-1st-closing-of-its-e140-million-climate-tech-fund-360-life-ii/",
+    "lat": 48.8588897,
+    "lng": 2.320041
+  },
+  {
+    "name": "PrezziPazzi.com",
+    "location": "London",
+    "founders": "Enrico Pandian",
+    "website": "PrezziPazzi.com",
+    "article_url": "https://www.eu-startups.com/2021/03/how-the-pandemic-is-reversing-italys-brain-drain-interviews-with-the-italian-startup-ecosystem/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "null",
+    "location": "Bari, Italy",
+    "founders": "Roberto Bellotti",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2017/10/ai-researchers-from-italy-can-spot-alzheimer-disease-years-before-symptoms-appear/",
+    "lat": 41.1257843,
+    "lng": 16.8620293
+  },
+  {
+    "name": "TimeFlow",
+    "location": "Milan, Italy",
+    "founders": "Lorenzo Danese, Iacopo Albanese, Gianmarco Ferrante, Federico Patrioli",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/02/timeflow-closes-e4-million-funding-round-to-expand-abroad-and-develop-ai-features/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Plino",
+    "location": "Turin, Italy",
+    "founders": "Pietro Galimberti, Viola Bonesu, and Enrico Castelli",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/09/italys-plino-raises-e650k-round-to-improve-smes-financial-planning-and-analysis-with-generative-ai/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "Astradyne",
+    "location": "Bari, Italy",
+    "founders": "Davide Vittori (CEO)",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/09/italian-spacetech-astradyne-just-raised-e2-million-for-its-ultralight-solar-panels-designed-for-space/",
+    "lat": 41.1257843,
+    "lng": 16.8620293
+  },
+  {
+    "name": "Good News Coffee",
+    "location": "Barcelona",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/10/the-perfect-blend-10-promising-european-coffee-startups-to-watch/",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "name": "Screevo",
+    "location": "Rome, Italy",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/09/italian-startup-screevo-secures-e510k-for-its-voice-control-digital-assistant-for-industry-4-0/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Resilco",
+    "location": "Bergamo, Italy",
+    "founders": "David Callejo Munoz",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/03/cleantech-startup-resilico-secures-e5-million-to-transform-the-industrial-waste-sector/",
+    "lat": 45.7566557,
+    "lng": 9.7542192
+  },
+  {
+    "name": "Moleskine",
+    "location": "Milan, Italy",
+    "founders": "Francesco Franceschi",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2011/01/index-ventures-ditching-web-for-classic-businesses/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Exein",
+    "location": "Rome, Italy",
+    "founders": "Gianni Cuozzo",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/12/italys-embedded-cybersecurity-firm-exein-adds-e100-million-in-funding-as-global-expansion-continues/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Ephos",
+    "location": "Milan, Italy",
+    "founders": "Andrea Rocchetto",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/09/milan-based-ephos-raises-e7-6-million-to-deliver-glass-based-quantum-photonic-chips/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "profitize",
+    "location": "Bolzano, South Tyrol, Italy",
+    "founders": "Simon Falkensteiner and Michael Gorfer",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/05/south-tyrols-profitize-raises-e1-4-million-to-scale-ai-powered-financial-planning-for-the-hospitality-sector/",
+    "lat": 46.6559296,
+    "lng": 11.2301833
+  },
+  {
+    "name": "Fabula AI",
+    "location": "London, United Kingdom",
+    "founders": "Not specified",
+    "website": "Not specified",
+    "article_url": "https://www.eu-startups.com/2018/11/10-european-startups-protecting-us-from-fake-news-and-data-privacy-breaches/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Kaitiaki",
+    "location": "Udine, Italy",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/01/10-italian-startups-to-watch-out-for-in-2019/",
+    "lat": 46.0634632,
+    "lng": 13.2358377
+  },
+  {
+    "name": "Glassfy",
+    "location": "Turin, Italy",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2023/08/fuelling-innovation-in-europe-interview-with-squareones-partner-federico-wengi/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "Deliveristo",
+    "location": "Milan, Italy",
+    "founders": "Ivan Aimo, Luca Calia, Gabriele Angeleri",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2022/08/milan-based-deliveristo-bags-e7-million-for-its-innovative-foodtech-marketplace/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "BRUM",
+    "location": "Milan, Italy",
+    "founders": "Luca Cozzarini, Paolo De Nadai",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/01/milan-based-brum-closes-e5-million-round-to-steer-italys-driving-schools-into-the-21st-century/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Oblique Therapeutics",
+    "location": "Sweden",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/10/10-european-biotech-startups-to-look-out-for-in-2019-and-beyond/",
+    "lat": 59.6749712,
+    "lng": 14.5208584
+  },
+  {
+    "name": "Penta",
+    "location": "Berlin",
+    "founders": "Matteo Concas",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/11/the-rise-of-challenger-banks-and-the-future-of-sme-banking-interview-with-penta-co-founder-and-cmo-matteo-concas/",
+    "lat": 52.5173885,
+    "lng": 13.3951309
+  },
+  {
+    "name": "Witty",
+    "location": "Rome",
+    "founders": "three engineers of La Sapienza University in Rome",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2022/08/10-rising-stars-from-romes-thriving-startup-scene/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Brumbrum",
+    "location": "Milan",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2020/01/10-promising-italy-based-startups-to-watch-out-for-in-2020/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Cosmico",
+    "location": "Milan",
+    "founders": "Francesco Marino, Simone Tornabene, and Matteo Roversi",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2026/05/milan-based-cosmico-raises-e12-million-acquires-flatmates-to-expand-future-of-work-platform/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Fintech District",
+    "location": "Milan, Italy",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2020/03/our-fintech-community-has-come-together-to-support-the-fight-against-covid-19-interview-with-head-of-fintech-district-alessandro/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Neosurance",
+    "location": "Italy",
+    "founders": "Not specified in the article",
+    "website": "Not specified in the article",
+    "article_url": "https://www.eu-startups.com/2020/04/neosurance-raises-e1-1-million-to-sell-insurance-in-7-seconds-on-mobile/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Casavo",
+    "location": "Milan, Italy",
+    "founders": "Giorgio Tinacci",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/11/giorgio-tinacci-founder-ceo-of-italian-unicorn-casavo-will-speak-at-next-years-eu-startups-summit/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Futura",
+    "location": "Milan, Italy",
+    "founders": "Andrea Chirolli, Francesco Salvatore, and Lorenzo Pinto",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/05/milan-based-edtech-futura-raises-e14-million-series-a-to-make-the-world-learn-faster-and-better/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Kurs Orbital",
+    "location": "Turin, Italy",
+    "founders": "Volodymyr Usov",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/03/turin-based-spacetech-kurs-orbital-secures-e3-7-million-to-democratise-in-orbit-servicing-and-logistics/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "Tanaza",
+    "location": "Milan",
+    "founders": "Sebastiano Bertani",
+    "website": "Tanaza.com",
+    "article_url": "https://www.eu-startups.com/2012/05/interview-with-sebastiano-bertani-tanaza/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Aleet",
+    "location": "Lublin",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/05/innovators-in-defence-10-european-startups-shaping-the-future-of-global-security/",
+    "lat": 51.2181945,
+    "lng": 22.5546776
+  },
+  {
+    "name": "Satispay",
+    "location": "Milan, Italy",
+    "founders": "Alberto Dalmasso",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/06/italian-fintech-unicorn-satispay-plans-e120-million-raise-secures-nearly-e60-million-from-existing-investors/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Intertwine",
+    "location": "Italy",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2018/11/intertwine-acquires-20lines/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Covision Media",
+    "location": "Bressanone",
+    "founders": "Burkhard G\u00fcssefeld and Franz Tschimben",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/03/backed-by-meta-and-adidas-covision-media-raises-e5-million-to-lead-the-3d-content-revolution/",
+    "lat": 46.716413,
+    "lng": 11.657792
+  },
+  {
+    "name": "AQLAS",
+    "location": "Italy",
+    "founders": "Dr Carlo Sias (Principal Investigator), Istituto Nazionale di Ricerca Metrologica (INRiM)",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/01/quantum-leap-aqlas-scores-e2-5-million-from-eic-grant-for-laser-innovation/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Majeeko",
+    "location": "Rome",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2017/01/hotter-than-your-favorite-pizza-10-italian-startups-to-watch-in-2017/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Almetra",
+    "location": "Berlin",
+    "founders": "Maximilian Fischer and Silviu Homoceanu",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/bosch-and-siemens-energy-partner-almetra-raises-e16-million-series-a-for-manufacturing-intelligence-platform/",
+    "lat": 52.5173885,
+    "lng": 13.3951309
+  },
+  {
+    "name": "Travel Appeal",
+    "location": "Florence, Italy",
+    "founders": "Mirko Lalli",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2018/10/florence-based-travel-appeal-raises-e3-million-to-help-travel-industry-professionals-with-data-science-and-ai/",
+    "lat": 43.7697955,
+    "lng": 11.2556404
+  },
+  {
+    "name": "Aerones",
+    "location": "Latvia",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2023/11/shaping-a-greener-future-europes-25-most-promising-renewable-energy-startups/",
+    "lat": 56.8406494,
+    "lng": 24.7537645
+  },
+  {
+    "name": "Verkko Robotics",
+    "location": "London",
+    "founders": "Stephen McCreath, Giancarlo Cobino",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/verkko-robotics-launch-voltaic-a-cost-and-energy-saving-spiking-neural-inference-model-sponsored/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "xFarm",
+    "location": "Italy",
+    "founders": "Matteo Vanotti",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/12/xfarm-raises-3-million-to-digitalise-farms/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Eatable Adventures",
+    "location": "Madrid",
+    "founders": "Jos\u00e9 Luis Caba\u00f1ero",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/01/madrid-based-eatable-adventures-concludes-first-closing-of-its-e30-million-fund-to-invest-in-agri-food-tech/",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "name": "Adaptronics",
+    "location": "Bologna, Italy",
+    "founders": "Lorenzo Agostini, Camilla Conti, Rocco Vertechy",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/11/adaptive-grippers-allowing-robots-to-grasp-any-object-drives-e3-15-million-investment-in-italys-adaptronics/",
+    "lat": 44.4938203,
+    "lng": 11.3426327
+  },
+  {
+    "name": "Pastbook",
+    "location": "Amsterdam",
+    "founders": "Stefano Cutello and Giuseppe Prioriello",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2012/09/amsterdam-based-pastbook-secures-250k/",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "name": "Qomodo",
+    "location": "Milan, Italy",
+    "founders": "Gianluca Cocco and Gaetano De Maio",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/01/fintech-qomodo-raises-e13-5-million-to-revolutionise-payments-for-physical-merchants/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Webidoo",
+    "location": "Milan, Italy",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/05/italian-ai-company-webidoo-secures-e21-million-to-scale-smb-focused-automation-platform/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Cellply",
+    "location": "Bologna",
+    "founders": "Massimo Bocchi and Roberto Guerrieri",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/05/bolognas-cellply-secures-e7-15-million-to-develop-tools-for-faster-immunotherapy-and-cell-therapy-development/",
+    "lat": 44.4938203,
+    "lng": 11.3426327
+  },
+  {
+    "name": "Qomodo",
+    "location": "Milan, Italy",
+    "founders": "Gianluca Cocco and Gaetano De Maio",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/11/milan-based-fintech-qomodo-raises-e34-5-million-to-revolutionize-essential-expenses-for-physical-retailers/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Cortilia",
+    "location": "Milan",
+    "founders": "Marco Porcaro",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/09/milan-based-cortalia-raises-e8-5-million-to-deliver-fresh-food-from-farms-to-doorsteps-across-northern-italy/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Tradler",
+    "location": "Barcelona",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/04/meet-the-15-startups-that-made-it-to-the-finals-of-our-pitch-competition-on-may-2-3-in-barcelona/",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "name": "IntendiMe",
+    "location": "Sardinia, Italy",
+    "founders": "Alessandra Farris, Giorgia Ambu, Antonio Pinese",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/05/sardinia-based-intendime-raises-e2-3-million-for-its-hearing-technology/",
+    "lat": 40.0912813,
+    "lng": 9.0305773
+  },
+  {
+    "name": "Sellix",
+    "location": "Italy",
+    "founders": "Daniele Servadei",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/07/eu-startups-podcast-episode-37-daniele-servadei-founder-and-ceo-of-sellix/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "BudapestConnect",
+    "location": "Budapest",
+    "founders": "Not specified",
+    "website": "Not specified",
+    "article_url": "https://www.eu-startups.com/2026/06/budapestconnect-the-successful-launch-of-a-new-startup-ecosystem-gathering/",
+    "lat": 47.4978789,
+    "lng": 19.0402383
+  },
+  {
+    "name": "PastBook",
+    "location": "Amsterdam",
+    "founders": "N/A",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2012/05/pastbook-%e2%80%93-rediscover-your-memories-as-easy-as-before/",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "name": "Euklid",
+    "location": "London",
+    "founders": "Antonio Simeone",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2016/11/ai-driven-investment-and-blockchain-startup-euklid-secures-seed-funding-at-a-company-valuation-of-e10-million/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Phononic Vibes",
+    "location": "Milan, Italy",
+    "founders": "Luca D\u2019Alessandro and a group of researchers from Politecnico di Milano and Boston\u2019s MIT",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/10/milan-based-deeptech-phononic-vibes-raises-e2-3-million-for-its-innovative-noise-and-vibration-reduction-tech/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Szopi",
+    "location": "Poland",
+    "founders": "Zbigniew P\u0142uciennik",
+    "website": "Szopi.pl",
+    "article_url": "https://www.eu-startups.com/2019/10/milan-based-supermercato24-announces-acquisition-of-polish-e-grocery-startup-szopi/",
+    "lat": 52.215933,
+    "lng": 19.134422
+  },
+  {
+    "name": "JUSP",
+    "location": "Cagliari, Milan, Italy",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2014/01/5-italian-startups-to-look-out-for-in-2014/",
+    "lat": 39.2171994,
+    "lng": 9.113311
+  },
+  {
+    "name": "Blogo",
+    "location": "Milan",
+    "founders": "Not specified",
+    "website": "Not available",
+    "article_url": "https://www.eu-startups.com/2011/01/blog-network-blogo-was-recently-bought-by-populis/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Muscope Cybersecurity",
+    "location": "Milan",
+    "founders": "Not specified in the article",
+    "website": "Not specified in the article",
+    "article_url": "https://www.eu-startups.com/2023/06/milan-based-muscope-closes-an-e800k-round-to-consolidate-its-cybersecurity-presence-in-italy-and-expand-in-eu/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "dotSUB",
+    "location": "Italy",
+    "founders": "Michael L. Smolens",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2011/03/david-orban-appointed-as-dotsub-chief-executive/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Jet HR",
+    "location": "Milan",
+    "founders": "Marco Ogliengo and Francesco Scalambrino",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/06/milan-based-jet-hr-raises-e4-7-million-in-one-of-italys-largest-pre-seed-rounds-aiming-to-revolutionise-hr-management/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "WeRoad",
+    "location": "Italy",
+    "founders": "Paolo De Nadai, Fabio Bin, Erika De Santi",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/05/airbnb-leads-e49-million-series-c-in-italian-adventure-travel-company-weroad/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Six Robotics",
+    "location": "Oslo, Norway",
+    "founders": "Christian Fredrik Eggesb\u00f8",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/06/six-robotics-lands-e12-million-to-advance-unmanned-systems-software-with-norwegian-defence-partners/",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "name": "Exein",
+    "location": "Rome",
+    "founders": "Gianni Cuozzo",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/07/italian-startup-exein-raises-e70-million-to-build-the-immune-system-for-digital-life/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Cosaporto",
+    "location": "Rome, Italy",
+    "founders": "Stefano Manili",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/04/rome-based-cosaporto-premium-tech-delivery-brand-lands-e1-8-million-to-expand-internationally/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Fluentify",
+    "location": "London",
+    "founders": "Giacomo Moiso, Claudio Bosco and Matteo Avalle",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2018/10/london-based-online-language-tutoring-startup-fluentify-raises-e1-7-million-to-expand-into-the-french-market/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Scuter",
+    "location": "Rome, Italy",
+    "founders": "Gianmarco Carnovale, Gabriele Carbucicchio, Carmine Di Nuzzo, Luca Ruggeri",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2021/11/rome-based-scuter-drives-off-with-e3-million-to-develop-new-sustainable-urban-mobility-vehicle/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Pennylane",
+    "location": "Paris, France",
+    "founders": "Arthur Waller",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/12/from-startup-to-superstar-european-startups-that-achieved-the-coveted-unicorn-status-in-2024/",
+    "lat": 48.8588897,
+    "lng": 2.320041
+  },
+  {
+    "name": "Pulpatronics",
+    "location": "UK",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/12/london-and-milan-based-nextstep-invests-e590k-in-uk-cleantech-startups-to-drive-sustainable-innovation/",
+    "lat": 54.7023545,
+    "lng": -3.2765753
+  },
+  {
+    "name": "Macai",
+    "location": "Milan",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2022/01/10-italian-startups-to-watch-in-2022-and-beyond/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Hotiday",
+    "location": "Milan",
+    "founders": "Vittorio Gargiulo, Federico Brunelli and Federico Di Carlo",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/05/italian-traveltech-startup-hotiday-raises-e5-5-million-to-create-the-first-decentralised-global-hotel/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Casavo",
+    "location": "Milan",
+    "founders": "Giorgio Tinacci",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/02/casavo-raises-funding/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Babaco Market",
+    "location": "Italy",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/03/10-incredibly-exciting-italian-startups-to-watch-in-2023/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Stamplay",
+    "location": "Italy",
+    "founders": "Nicola Mattina, Giuliano Iacobelli",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2013/04/create-web-applications-without-writing-code-with-stamplay/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Vaniday",
+    "location": "Italy, UK, France, UAE, Brazil",
+    "founders": "Maxime Legardez",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2015/07/beauty-and-wellness-startup-vaniday-secures-e15m-funding-from-its-existing-investors/",
+    "lat": 42.6384261,
+    "lng": 12.674297
+  },
+  {
+    "name": "Mogees",
+    "location": "London",
+    "founders": "Bruno Zamborlin",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2017/05/london-based-music-startup-mogees-closes-a-1-1-million-funding-round-with-the-former-ceo-of-emi/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "King.com",
+    "location": "Europe",
+    "founders": "Riccardo Zacconi and co-founders",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/07/episode-2-of-the-eu-startups-podcast-interview-with-riccardo-zacconi-founder-of-king-com-candy-crush-etc/",
+    "lat": 51.0,
+    "lng": 10.0
+  },
+  {
+    "name": "BIOPHTA",
+    "location": "Paris",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2024/08/leading-the-way-10-promising-european-startups-helping-the-blind-and-visually-impaired/",
+    "lat": 48.8588897,
+    "lng": 2.320041
+  },
+  {
+    "name": "BautifulBOX",
+    "location": "Cagliari, Italy",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2016/08/10-european-pet-startups-to-watch-in-2016-and-beyond/",
+    "lat": 39.2171994,
+    "lng": 9.113311
+  },
+  {
+    "name": "Walkolution",
+    "location": "Munich, Germany",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/06/startup-jobs-of-the-week-walkolution-prontopro-byhours-and-veracontent-are-hiring/",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "name": "Intu Diagnostics",
+    "location": "Liepzig, Germany",
+    "founders": "Not explicitly mentioned (spin-off from Fraunhofer Society)",
+    "website": "Not mentioned in the article",
+    "article_url": "https://www.eu-startups.com/2026/06/lab-free-testing-moves-closer-to-home-as-germanys-intu-diagnostics-raises-e1-1-million/",
+    "lat": 51.4198878,
+    "lng": 12.2207551
+  },
+  {
+    "name": "BOOM",
+    "location": "Milan",
+    "founders": "Federico Mattia Dolci",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/07/it-is-in-our-nature-to-be-pioneers-we-are-not-wired-to-wait-around-for-a-return-to-normality-interview-with-boom-founder-federico-mattia-dolci/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Reasoned Art",
+    "location": "Milan, Italy",
+    "founders": "Giulio Bozzo and Andrea Marec",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/09/cryptoart-italian-nft-startup-reasoned-art-closed-a-e310k-pre-seed-round/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Solair",
+    "location": "Italy",
+    "founders": "Tom Davis",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2016/05/microsoft-acquires-solair-service-that-deliveres-innovative-internet-of-things/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Seares",
+    "location": "Livorno, Italy",
+    "founders": "Giorgio Cuc\u00e8",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/12/tuscan-startup-seares-lands-e400k-for-its-innovative-nautical-tech/",
+    "lat": 42.7902379,
+    "lng": 10.3402239
+  },
+  {
+    "name": "BeDimensional",
+    "location": "Genoa, Italy",
+    "founders": "Vittorio Pellegrini, Francesco Bonaccorso, Andrea Gamucci",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/09/genoa-based-bedimensional-raised-e5-million-aiming-to-revolutionise-2d-crystal-applications/",
+    "lat": 44.40726,
+    "lng": 8.9338624
+  },
+  {
+    "name": "Sibill",
+    "location": "Milan, Italy",
+    "founders": "Mattia Montepara, Lorenzo Liguori, and Dario Prencipe",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/06/italian-fintech-startup-sibill-raises-e12-million-to-bring-all-in-one-finance-platform-to-italian-smes-and-accountants/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Hephaestus Venture",
+    "location": "Milan, Italy and Silicon Valley, USA",
+    "founders": "Antonino Sacc\u00e0",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2018/04/hephaestus-venture-is-building-a-bridge-between-corporate-venture-capital-and-startups-in-the-us-and-italy-sponsored/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Cents",
+    "location": "Perugia, Italy",
+    "founders": "Riccardo Valobra, Alessio Mazzalupi, Claudio Cardinale",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/12/perugia-based-fintech-cents-bags-e1-15-million-pre-seed-to-pave-the-way-for-impact-as-a-service-in-italy/",
+    "lat": 43.1070321,
+    "lng": 12.4029962
+  },
+  {
+    "name": "Breed Reply",
+    "location": "London, UK (with offices in Italy and Germany)",
+    "founders": "Not explicitly mentioned in the article, launched by Reply",
+    "website": "No longer in business as of May 2023",
+    "article_url": "https://www.eu-startups.com/2014/10/breed-reply-an-advanced-incubator-for-startups-delivering-iot-solutions/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Contents",
+    "location": "Milan, Italy",
+    "founders": "Massimiliano Squillace",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/02/milan-based-contents-secures-e5-9-million-for-ai-workflow-platform-sets-up-doha-hub-for-middle-east-expansion/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "SylloTips",
+    "location": "Rome, Italy",
+    "founders": "Giorgio Barnab\u00f2, Leonardo Martini, Simone Silvestri",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/09/romes-syllotips-closes-e4-2-million-round-for-ai-that-learns-from-employees-when-in-doubt/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "CharityStars",
+    "location": "Milan, London",
+    "founders": "Francesco Nazzari Fusetti",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2016/08/charitystars-closes-e2-million-series-a-funding-round-to-accelerate-the-international-expansion/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "BOOM!",
+    "location": "Milan",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/05/10-european-startups-refreshing-the-photography-industry/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "SeedLab",
+    "location": "Italy",
+    "founders": "N/A",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2013/02/seedlab-2013-call-for-application/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Kiurma",
+    "location": "Sicily, Italy",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2011/01/an-interview-with-salvatore-sanfilippo-creator-of-redis-working-out-of-sicily/",
+    "lat": 37.587794,
+    "lng": 14.155048
+  },
+  {
+    "name": "ExoLab Italia",
+    "location": "L\nAquila",
+    "founders": "Mariantonia Logozzi, Stefano Fais, Lorenzo Cilli, Valerio Carconi",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/02/exolab-italia-lands-e5-million-to-scale-plant-exosome-innovation-globally/",
+    "lat": 42.1368853,
+    "lng": 13.610341
+  },
+  {
+    "name": "Wonderflow",
+    "location": "Amsterdam",
+    "founders": "Riccardo Osti, Giovanni Gaglione, Michele Ruini",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2021/06/amsterdam-based-wonderflow-secures-e16-5-million-to-help-companies-learn-from-customer-feedback/",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "name": "Skillvue",
+    "location": "Milan, Italy",
+    "founders": "Nicol\u00f2 Mazzocchi and Simone Patera",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/05/italian-hrtech-skillvue-raises-e5-5-million-to-enable-companies-to-adopt-a-skills-based-approach/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "NanoPhoria Bioscience",
+    "location": "Milan, Italy",
+    "founders": "Claudio De Luca",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/10/nanophoria-closes-e83-5-million-series-a-for-its-heart-failure-candidate-one-of-italys-largest-2025-biotech-rounds/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "KiteKraft",
+    "location": "Munich",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2022/12/10-european-wind-energy-startups-that-will-blow-you-away/",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "name": "Suncrafter",
+    "location": "Berlin",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/05/10-innovative-coronavirus-solutions-created-during-online-hackathons/",
+    "lat": 52.5173885,
+    "lng": 13.3951309
+  },
+  {
+    "name": "The Circle",
+    "location": "Rome, Italy",
+    "founders": "Valerio Ciotola, Simone Cofini, Lorenzo Garreffa, Thomas Marino",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/10/rome-based-the-circle-snaps-e2-1-million-to-expand-aquaponic-farm-operation-targeting-the-restaurant-industry/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Deesup",
+    "location": "Milan, Italy",
+    "founders": "Valentina Ceroline",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/11/italian-ethical-furniture-marketplace-deesup-scores-e1-4-million-to-accelerate-international-growth/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "IWG",
+    "location": "Zug, Switzerland",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2020/02/eu-startups-summit-the-future-of-great-startup-workspaces-a-panel-discussion-with-iwc-maria-01-and-talent-garden/",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "name": "Hotelyo",
+    "location": "Milan, Italy",
+    "founders": "Babotel and Jakala",
+    "website": "Deactivated",
+    "article_url": "https://www.eu-startups.com/2011/03/interview-with-danilo-gasparrini-hotelyo/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Space Product and Innovation (SPiN)",
+    "location": "Frascati, Italy",
+    "founders": "Ran Qedar, Saish, Giulia",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/01/italian-spacetech-spin-raises-e1-6-million-to-revolutionize-space-manufacturing/",
+    "lat": 41.8082452,
+    "lng": 12.6803684
+  },
+  {
+    "name": "TechPeaks Programme",
+    "location": "Trento, Italy",
+    "founders": "Trento RISE",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2013/01/first-call-for-the-techpeaks-program/",
+    "lat": 46.1029536,
+    "lng": 11.1297425
+  },
+  {
+    "name": "Wibo",
+    "location": "Turin, Italy",
+    "founders": "Tommaso Seita and Alessandro Busso",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/06/italian-edtech-startup-wibo-raises-e500k-for-its-upskilling-and-leadership-programmes/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "GO Sharing",
+    "location": "Amsterdam",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2022/02/go-sharing-brings-500-new-e-mopeds-to-rome-making-mobility-even-more-sustainable-in-the-italian-capital/",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "name": "Aptus.AI",
+    "location": "Pisa",
+    "founders": "Andrea Tesei and Lorenzo De Mattei",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/11/pisa-based-regtech-aptus-ai-raises-e3-million-to-transform-compliance-activities-into-business-opportunities/",
+    "lat": 43.4714722,
+    "lng": 10.6797912
+  },
+  {
+    "name": "IdentifAI",
+    "location": "Cesena, Italy",
+    "founders": "Marco Ramilli and Marco Castaldo",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/07/italian-cybersecurity-platform-identifai-raises-e5-million-to-tackle-the-rise-of-deepfakes-with-detection-platform/",
+    "lat": 44.136352,
+    "lng": 12.2422442
+  },
+  {
+    "name": "Acabiz",
+    "location": "Milan, Italy",
+    "founders": "Guido Uglietti",
+    "website": "www.acabiz.com",
+    "article_url": "https://www.eu-startups.com/2011/05/acabiz-the-web-based-knowledge-trading-platform/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "AGADE",
+    "location": "Milan",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/04/10-milan-based-startups-to-watch-in-2024-and-beyond/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Weebora",
+    "location": "Milan",
+    "founders": "Fabio Zecchini",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/07/italian-padel-marketplace-weebora-secures-e1-3-million-to-offer-padel-related-travel-experiences/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "f3nice",
+    "location": "Norway, Italy",
+    "founders": "Luisa Elena Mondora, Matteo Vanazzi, Philip Hansteen",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2022/11/harnessing-am-for-a-sustainable-circular-world-interview-with-the-founders-of-f3nice-sponsored/",
+    "lat": 61.1529386,
+    "lng": 8.7876653
+  },
+  {
+    "name": "Wultra",
+    "location": "Prague",
+    "founders": "Petr Dvorak",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/czech-cybersecurity-startup-wultra-lands-e6-8-million-to-support-europes-digital-identity-wallet-rollout/",
+    "lat": 50.0874654,
+    "lng": 14.4212535
+  },
+  {
+    "name": "Babaco Market",
+    "location": "Milan",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/09/turning-waste-into-wealth-10-promising-european-startups-tackling-the-food-waste-crisis/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "FlyingBasket",
+    "location": "Italy",
+    "founders": "Moritz Moroder (CEO)",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/10/the-future-of-cargo-transportation-introducing-flyingbaskets-fb3-drone-with-100kg-capacity-sponsored/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Furhat Robotics",
+    "location": "Stockholm",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/02/10-promising-european-robotics-startups-to-watch-in-2020/",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "name": "Algo AI",
+    "location": "Milan",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/02/viva-linnovazione-10-innovative-italian-startups-to-keep-an-eye-on-in-2024-and-beyond/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Glue Collaboration",
+    "location": "Helsinki",
+    "founders": "Santtu Parikka and Ville Miettinen",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/05/5-european-ar-and-vr-startups-helping-us-all-work-remotely/",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "name": "Translated",
+    "location": "Italy and US",
+    "founders": "Isabelle Andrieu and Marco Trombetti",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2021/06/italy-and-us-based-translated-nabs-e25-2-million-to-boost-its-end-to-end-translation-platform/",
+    "lat": 37.7167574,
+    "lng": -122.4359318
+  },
+  {
+    "name": "Glaut",
+    "location": "Milan",
+    "founders": "Matteo Cera and Giovanni del Gallo",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/04/milan-based-glaut-secures-over-e1-3-million-to-help-b2c-businesses-uncover-customer-insights-through-conversational-surveys/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "POW-WOW fashion tech week",
+    "location": "Potenza, Basilicata",
+    "founders": "Andreina Serena Romano",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/08/how-will-the-startups-from-the-south-of-italy-recover-from-the-pandemic/",
+    "lat": 40.517312,
+    "lng": 15.8216088
+  },
+  {
+    "name": "The Exploration Company (TEC)",
+    "location": "Munich, Germany, France, Italy",
+    "founders": "H\u00e9l\u00e8ne Huby",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/11/munich-based-the-exploration-company-secures-e160-million-to-further-develop-their-reusable-spacecraft/",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "name": "Wayla",
+    "location": "Milan, Italy",
+    "founders": "Carlo Bettini, Mario Ferretti",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/09/italian-mobility-startup-wayla-zips-past-e1-million-in-funding-in-under-30-hours/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Reasoned Art",
+    "location": "Milan, Italy",
+    "founders": "Giulio Bozzo and Andrea Marec",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/05/milan-based-reasoned-art-closes-e1-4-million-seed-round-to-enter-the-korean-market-with-web3-digital-art-project-monuverse/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Fitprime",
+    "location": "Rome, Italy",
+    "founders": "Matteo Musa",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/01/rome-based-fitprime-nabs-e2-5-million-to-expand-its-online-workout-and-gym-platform/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Arduino",
+    "location": "Malmo, Budapest, Italy",
+    "founders": "David Cuartielles",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/05/it-takes-a-lot-of-work-and-having-a-certain-attitude-interview-with-arduinos-ceo-and-coronavirusmakers-david-cuartielles/",
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "name": "iGenius",
+    "location": "Milan, Italy",
+    "founders": "Uljan Sharka",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/09/milan-based-scaleup-igenius-launches-its-virtual-data-advisor-in-the-us/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Toduba",
+    "location": "Turin, Italy",
+    "founders": "Gianluca Enrietti and Bruno Cavigioli",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/07/italian-fintech-platform-toduba-raises-e3-5-million-to-digitise-the-employee-welfare-sector/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "BigProfiles",
+    "location": "Rome, Italy",
+    "founders": "Lorenzo Luce",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/02/rome-based-bigprofiles-raises-e1-5-million-to-help-companies-profile-their-customers-using-ai/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "TechChill",
+    "location": "Riga, Baltics",
+    "founders": "Marija Rucevska",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2022/05/techchill-is-taking-milan-as-europes-startup-ecosystem-keeps-growing/",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "name": "Fresco Frigo",
+    "location": "Milan",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2019/08/10-milan-based-startups-to-look-out-for-in-2019-and-beyond/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Buzzoole",
+    "location": "Naples, Italy",
+    "founders": "Fabrizio Perrone (CEO)",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2017/01/italian-startup-buzzoole-raises-830k-for-its-influencer-marketing-platform/",
+    "lat": 40.8358846,
+    "lng": 14.2487679
+  },
+  {
+    "name": "Ittinsect",
+    "location": "Rome",
+    "founders": "Alessandro Romano",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/02/italian-biotech-startup-ittinsect-secured-e750k-to-develop-a-sustainable-alternative-to-aquaculture-feed/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Betahaus",
+    "location": "Europe",
+    "founders": "Madeleine Gummer v. Mohl",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/11/eu-startups-podcast-episode-10-the-status-quo-and-future-of-coworking-with-the-ceos-of-betahaus-and-talent-garden/",
+    "lat": 51.0,
+    "lng": 10.0
+  },
+  {
+    "name": "ALKemist Bio",
+    "location": "Turin",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/02/ciao-innovation-10-promising-italian-startups-you-should-keep-and-eye-on-in-2025/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "Wind Mobility",
+    "location": "Barcelona, Spain",
+    "founders": "Not mentioned in the article",
+    "website": "Not mentioned in the article",
+    "article_url": "https://www.eu-startups.com/2019/12/berlin-based-wind-wins-official-e-scooter-partnership-with-milan-city/",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "name": "Brum",
+    "location": "Milan",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/02/from-milan-to-liguria-10-of-the-most-promising-italian-startups-shaping-the-next-tech-cycle/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Soource",
+    "location": "Bolzano",
+    "founders": "Maicol Verzotto, Nazareno Mario Ciccarello, Silvia Chiarot, Serena Galli, Luca Taddeo",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/bolzano-based-soource-raises-e3-million-to-help-procurement-evolve-from-copilot-to-autopilot-model/",
+    "lat": 46.6559296,
+    "lng": 11.2301833
+  },
+  {
+    "name": "Academia de C\u00f3digo",
+    "location": "Lisbon, Fundao, Dritts, Porto",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2019/07/the-15-best-coding-schools-and-coding-bootcamps-in-europe/",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "name": "Young Planet",
+    "location": "UK",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/05/10-promising-circular-economy-startups-to-watch-in-2021/",
+    "lat": 54.7023545,
+    "lng": -3.2765753
+  },
+  {
+    "name": "Fiscozen",
+    "location": "Milan",
+    "founders": "Enrico Mattiazzi and Vito Lomele",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2022/12/milan-based-fintech-fiscozen-picks-up-e8-million-to-get-rid-of-tax-bureaucracy/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "BOOM",
+    "location": "Milan",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2021/08/10-promising-milan-based-startups-worth-following-in-2021-and-beyond/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "FlyingBasket",
+    "location": "Italy",
+    "founders": "Moritz Moroder",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/11/shore-to-island-and-shore-to-ship-deliveries-flyingbaskets-drone-sets-new-benchmarks-sponsored/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Fubles",
+    "location": "Milan",
+    "founders": "Mirko Trasciatti",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2011/03/sport-community-fubles-jus-raised-300000-euro/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Cyber Guru",
+    "location": "Rome",
+    "founders": "Gianni Baroni",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/10/rome-based-cyber-guru-bags-e23-million-series-b-to-expand-its-cybersecurity-training-platform/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Tundr",
+    "location": "Milan, Italy",
+    "founders": "Giorgio Seveso, Jules Arthur Sastre, and Luca Milesi",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/04/italian-fintech-tundr-secures-e7-2-million-to-scale-its-digital-platform-for-corporate-welfare/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "StartupGym",
+    "location": "Milan",
+    "founders": "Enrico Pandian, Tarek Fahmy and Giuseppe Balzano",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2021/12/milan-based-startupgym-raises-e1-5-million-to-build-european-impact-startups/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Qapla\u2019",
+    "location": "Florence, Italy",
+    "founders": "Luca Cassia and Roberto Fumarola",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/11/italian-startup-qapla-lands-e950k-to-grow-its-innovative-shipment-management-system/",
+    "lat": 43.7697955,
+    "lng": 11.2556404
+  },
+  {
+    "name": "Talentware",
+    "location": "Milan, Italy",
+    "founders": "Andrea Raimondo, Giacomo Marchiori",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/03/milan-based-positive-impact-startup-talentware-gets-e800k-pre-seed-to-enable-data-driven-workforce-planning/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Macai",
+    "location": "Milan, Italy",
+    "founders": "Giovanni Cavallo",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2021/11/milan-based-macai-bags-e2-6-million-to-launch-new-digital-supermarket/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Surfshark",
+    "location": "Netherlands",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/10/european-startups-get-serious-about-deepfakes-as-ai-fraud-losses-surpass-e1-3-billion/",
+    "lat": 52.2434979,
+    "lng": 5.6343227
+  },
+  {
+    "name": "Scalapay",
+    "location": "Milan",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2022/10/10-exciting-milan-based-startups-were-keeping-a-close-eye-on/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Hephaestus Venture",
+    "location": "Milan, Italy",
+    "founders": "Antonino Sacc\u00e0",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2018/01/hephaestus-venture-launches-a-new-accelerator-in-milan-sponsored/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "i-TES",
+    "location": "Turin, Italy",
+    "founders": "Michele Santovito",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/05/turin-based-deeptech-startup-i-tes-secures-e14-million-to-support-renewal-energy-sources-with-thermal-storage/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "Seqana",
+    "location": "Berlin",
+    "founders": "Stefan Goenner",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/berlin-based-seqana-secures-e3-2-million-to-quantify-soil-health-using-satellite-imagery-and-machine-learning/",
+    "lat": 52.5173885,
+    "lng": 13.3951309
+  },
+  {
+    "name": "Bionyra Pharma",
+    "location": "Paris and Boston",
+    "founders": "Dr. Fr\u00e9d\u00e9ric Marrache, Anta Gkelou",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/06/frances-bionyra-pharma-launches-with-e143-million-series-a-to-advance-inflammatory-disease-biologics/",
+    "lat": 50.3580026,
+    "lng": 3.5230095
+  },
+  {
+    "name": "Quindi",
+    "location": "Padua, Italy",
+    "founders": "Fabio Oscari, Simone Minto, Luca Barbazza, Alberto Frison",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/12/padua-based-quindi-raises-e525k-to-accelerate-development-of-its-ai-production-copilot-for-smart-manufacturing/",
+    "lat": 45.3984428,
+    "lng": 11.8956829
+  },
+  {
+    "name": "H-FARM",
+    "location": "Italy",
+    "founders": "Riccardo Donadon",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2016/11/join-startup-is-my-way-an-exciting-event-for-students-and-young-entrepreneurs-on-december-6-in-treviso-italy/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Italian Founders Fund",
+    "location": "Milan, Italy",
+    "founders": "Lorenzo Franzi",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/06/milan-based-vc-italian-founders-fund-raises-inaugural-e50-million-for-seed-and-pre-seed-startups/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Zakeke",
+    "location": "Milan",
+    "founders": "Angelo Coletta",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/10/milan-based-zakeke-secures-e2-million-to-become-the-go-to-visual-commerce-partner-for-global-brands/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "BOOM imagestudio",
+    "location": "Milan, Italy",
+    "founders": "Federico Mattia Dolci",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/02/federico-mattia-dolci-ceo-of-boom-imagestudio-will-speak-at-the-eu-startups-summit-workshop-on-fast-vs-sustainable-growth/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "betahaus",
+    "location": "Berlin, Sofia, Barcelona, Hamburg",
+    "founders": "Madeleine Gummer v. Mohl, Christoph Fahle, Maximilian von der Ahe",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/05/interview-with-co-founder-and-ceo-of-betahaus-madeleine/",
+    "lat": 52.5173885,
+    "lng": 13.3951309
+  },
+  {
+    "name": "Piece",
+    "location": "Milan, Italy",
+    "founders": "Kentaro Sohara, Lorenzo Dellarossa, Riccardo Momigliano",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2023/07/milan-based-real-estate-fintech-piece-secures-e650k-to-empower-a-young-generation-of-property-investors/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Naroomi",
+    "location": "Rome, Italy",
+    "founders": "Ricardo (CEO) and Andrea (CTO)",
+    "website": "Not explicitly provided, link deactivated",
+    "article_url": "https://www.eu-startups.com/2012/04/naroomi-the-next-big-thing/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Uala",
+    "location": "Milan",
+    "founders": "Alessandro Bruzzi",
+    "website": "Uala.com",
+    "article_url": "https://www.eu-startups.com/2019/06/milan-based-beauty-booking-platform-uala-raises-e15-million-and-acquires-french-salon-booking-service-balinea/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "ABOUT YOU",
+    "location": "Hamburg",
+    "founders": "Tarek M\u00fcller",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/the-eu-startups-podcast-interview-with-tarek-muller-co-founder-co-ceo-about-you/",
+    "lat": 53.5501721,
+    "lng": 10.0013165
+  },
+  {
+    "name": "Wandercraft",
+    "location": "Paris",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2020/01/10-promising-european-startups-supporting-people-with-disabilities/",
+    "lat": 48.8588897,
+    "lng": 2.320041
+  },
+  {
+    "name": "FLEEP Technologies",
+    "location": "Milan, Italy",
+    "founders": "Mario Caironi, Giorgio Dell\nRba, Paolo Colpani",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/10/milan-based-fleep-technologies-completes-e900k-seed-round-to-bring-printed-electronics-to-market/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Roboze",
+    "location": "Bari, Italy",
+    "founders": "Alessio Lorusso",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/03/italys-roboze-secures-defencetech-investment-ahead-of-us-aerospace-and-defence-headquarters-launch/",
+    "lat": 41.1257843,
+    "lng": 16.8620293
+  },
+  {
+    "name": "Emotiva",
+    "location": "Milan, Italy",
+    "founders": "N/A",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2021/11/milan-based-ai-startup-emotiva-raises-e610k-to-analyse-peoples-emotional-responses-in-real-time/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "ZNEXT",
+    "location": "Bologna, Italy",
+    "founders": "Elena Lavezzi, Ferrante Enriques",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/06/italian-publishing-house-zanichelli-editore-launches-e60-million-edtech-push-for-unlocking-human-potential/",
+    "lat": 44.4938203,
+    "lng": 11.3426327
+  },
+  {
+    "name": "Osney Capital",
+    "location": "UK",
+    "founders": "Adam Cragg, Joshua Walter, Paul Wilkes",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/amid-rising-uk-cyber-talent-growth-osney-capital-closes-oversubscribed-e69-million-debut-fund/",
+    "lat": 54.7023545,
+    "lng": -3.2765753
+  },
+  {
+    "name": "Tulum Energy",
+    "location": "Milan",
+    "founders": "Massimiliano Pieri, Donald Kendrick",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/07/italian-hydrogen-company-tulum-energy-raises-e22-9-million-to-advance-scalable-low-carbon-hydrogen-production/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "AlterEco Pulp",
+    "location": "Rome, Italy",
+    "founders": "Giammarco Paronitti, Corazzi family",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/08/italys-altereco-pulp-raises-e3-5-million-for-its-eco-sustainable-packaging-solution/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Biscuitway",
+    "location": "Catania",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2022/11/10-super-promising-sicilian-startups-to-watch-over-the-next-year/",
+    "lat": 37.5023612,
+    "lng": 15.0873718
+  },
+  {
+    "name": "Lexroom.ai",
+    "location": "Milan",
+    "founders": "Paolo Fois, Martina Domenicali, and Andrea Lonza",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/03/lexroom-ai-raises-e2-million-to-transform-legal-researchwith-vertical-generative-ai/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Cyberwave",
+    "location": "Milan",
+    "founders": "Simone Di Somma and Vittorio Banfi",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/10/milan-based-cyberwave-secures-e7-million-to-simplify-ai-driven-automation/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Bending Spoons",
+    "location": "Milan",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2024/07/milan-based-bending-spoons-announces-the-acquisition-of-digital-publishing-platform-issuu/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "hlpy",
+    "location": "Milan",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/09/milan-based-hlpy-raises-e18-millions-series-b-to-grow-in-the-vehicle-assistance-sector-in-europe/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "GoStudent",
+    "location": "Vienna, Austria",
+    "founders": "Felix Ohswald and Gregor M\u00fcller",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2021/01/vienna-based-online-tutoring-startup-gostudent-expands-to-5-more-european-countries/",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "name": "Tutornow",
+    "location": "Lomazzo, Italy",
+    "founders": "Riccardo Sciortino, Nicola De Carlo, Andrei Braila, and Luca Dei Rossi",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/05/italian-edtech-startup-tutornow-raises-e1-million-to-scale-their-accessible-and-personalised-lessons/",
+    "lat": 45.6917739,
+    "lng": 9.0330073
+  },
+  {
+    "name": "Exein",
+    "location": "Rome",
+    "founders": "Gianni Cuozzo",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/07/rome-based-exein-raises-e15-million-aiming-to-set-a-global-standard-for-embedded-cybersecurity/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Tannico",
+    "location": "Milan, Italy",
+    "founders": "Marco Magnocavallo",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2016/10/tannico-italian-online-retailer-for-fine-wine-secures-e3-8m-in-a-series-a-funding-round/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Yoogoin",
+    "location": "Italy",
+    "founders": "Luca Panzarella",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2013/03/yoogoin-the-smart-events-search-engine-interview/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "ISAAC antisismica",
+    "location": "Milan, Italy",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2026/03/milan-based-isaac-raises-e14-million-to-expand-earthquake-resilience-technology-for-the-construction-sector/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Foreverland",
+    "location": "Bari, Italy",
+    "founders": "Massimo Sabatini, Riccardo Bottiroli, Giuseppe D\u2019Alessandro, and Massimo Brochetta",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/10/italian-foodtech-foreverland-raises-e3-4-million-to-redefine-the-future-of-chocolate/",
+    "lat": 41.1257843,
+    "lng": 16.8620293
+  },
+  {
+    "name": "Equixly",
+    "location": "Verona",
+    "founders": "Mattia Dalla Piazza and Alessio Dalla Piazza",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/12/verona-based-equixly-raises-e10-million-to-scale-its-ai-driven-platform-for-automated-api-security-testing/",
+    "lat": 45.4424977,
+    "lng": 10.9857377
+  },
+  {
+    "name": "MotorK",
+    "location": "Milan",
+    "founders": "Marco Marlia",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/09/milan-based-motork-secures-e10-million-to-accelerate-post-covid-growth-of-its-automotive-sales-and-marketing-technology/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "ADmantX",
+    "location": "Naples",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2013/01/admantx-closes-a-second-round-with-atlante-ventures-mezzogiorno/",
+    "lat": 40.8358846,
+    "lng": 14.2487679
+  },
+  {
+    "name": "Oura",
+    "location": "Oulu, Finland",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/01/10-cool-european-wearable-startups-to-watch-in-2020/",
+    "lat": 65.0117914,
+    "lng": 25.4701973
+  },
+  {
+    "name": "inVRsion",
+    "location": "Milan, Italy",
+    "founders": "Matteo Esposito, Paolo Pascolo, Flora Caroli, Luca Ferrari Trecate",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/05/milan-based-invrsion-virtual-reality-startup-raises-e3-million/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Skillvue",
+    "location": "Milan",
+    "founders": "Nicol\u00f2 Mazzocchi and Simone Patera",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/09/milan-based-hr-tech-skillvue-gets-e2-5-million-for-ai-based-skills-assessment-platform/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Machinio.com",
+    "location": "Berlin",
+    "founders": "null",
+    "website": "Machinio.com",
+    "article_url": "https://www.eu-startups.com/2019/03/startup-jobs-of-the-week-join-machinio-wild-code-school-what-digital-or-busuu/",
+    "lat": 52.5173885,
+    "lng": 13.3951309
+  },
+  {
+    "name": "Miummium",
+    "location": "Glasgow",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/01/10-european-startups-to-help-keep-you-comfy-at-home-this-winter/",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "name": "Intuos",
+    "location": "Rome",
+    "founders": "Carolina Gianardi and Vito Tedeschi",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/02/italian-aviationtech-startup-intuos-raises-e720k-to-scale-fleet-operations-platform-internationally/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Cowo360",
+    "location": "Rome",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2017/07/overview-10-of-the-best-co-working-spaces-in-rome/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "VoiceMed",
+    "location": "Rome",
+    "founders": "Arianna Arienzo",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/02/rome-based-voicemed-reaches-e1-million-in-total-funding-launches-pilot-for-early-detection-of-chronic-respiratory-diseases/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Inxpect",
+    "location": "Brescia, Italy",
+    "founders": "Luca Salgarelli",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/10/reinventing-the-way-people-interact-with-machinery-interview-with-inxpect-founder-luca-salgarelli/",
+    "lat": 45.7795805,
+    "lng": 10.425873
+  },
+  {
+    "name": "NANDO",
+    "location": "Turin, Italy",
+    "founders": "Riccardo Leonardi, Fabrizio Custorella, Giovanni Lucifora, Federico Fedi, Simone Cavariani",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/02/turins-nando-secures-e3-3-million-to-scale-municipal-and-food-waste-optimisation-technology/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "Bluenet",
+    "location": "Naples",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2018/06/10-naples-based-startups-to-watch-in-2018/",
+    "lat": 40.8358846,
+    "lng": 14.2487679
+  },
+  {
+    "name": "Talent Garden TAG Milano",
+    "location": "Milan, Italy",
+    "founders": "Not specified, founded in Italy in 2011",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2016/09/overview-of-the-best-coworking-spaces-in-milan/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Benefiz",
+    "location": "Lille",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/05/are-your-employees-happy-10-startups-working-to-make-teams-feel-better-at-work/",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "name": "Gyver",
+    "location": "Brescia, Italy",
+    "founders": "Francesco Defendi, Leo Acciarri, and Mattia Zarrelli",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/05/ai-for-the-workers-it-cant-replace-italys-gyver-raises-e1-4-million-to-empower-electricians/",
+    "lat": 45.7795805,
+    "lng": 10.425873
+  },
+  {
+    "name": "Easytip",
+    "location": "London",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/09/meet-europes-top-50-travel-startups-of-2023-premium-report/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Aidexa",
+    "location": "Milan",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2021/01/10-of-the-most-promising-italian-startups-to-watch-out-for-in-2021/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Blusho",
+    "location": "Glasgow",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2017/07/10-european-startups-with-the-potential-to-disrupt-the-beauty-industry/",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "name": "JUSP",
+    "location": "Milan",
+    "founders": "Jacopo Vanetti and Giuseppe Saponaro",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2013/04/6mln-for-jusp-the-italian-startup-that-turns-your-smartphone-into-a-pos/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "H-FARM",
+    "location": "Treviso, Italy",
+    "founders": "Riccardo Donadon",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2016/12/startup-is-my-way-inspired-the-next-generation-of-founders-and-celebrated-female-entrepreneurship/",
+    "lat": 45.8066913,
+    "lng": 12.2063158
+  },
+  {
+    "name": "Voidless",
+    "location": "Milan, Italy",
+    "founders": "Carlo Villani, Daniel, Guglielmo, Mattia",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/02/milan-based-voidless-raises-e2-2-million-to-confront-the-overpackaging-problem-with-box-on-demand-solution/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Epitome Therapeutics",
+    "location": "Vienna",
+    "founders": "Dr. Guido Gualdoni and Dr. Jamie Hackett",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "name": "Casavo",
+    "location": "Milan, Italy",
+    "founders": "Giorgio Tinacci",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2022/07/italian-proptech-startup-casavo-takes-home-e400-million-as-it-shakes-up-europes-property-market/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Everli",
+    "location": "Milan",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2021/03/milan-based-everli-secures-e85-2-million-to-accelerate-eu-expansion-of-its-online-grocery-marketplace/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Beddit",
+    "location": "Finland",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2018/10/10-promising-startups-that-are-tackling-sleeping-disorders/",
+    "lat": 63.2467777,
+    "lng": 25.9209164
+  },
+  {
+    "name": "Vento",
+    "location": "Turin, Italy",
+    "founders": "John Elkann, Diyala D\n\tAveni",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/03/vc-fund-vento-launches-e75-million-fund-ii-to-back-the-boldest-italian-founders/",
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  {
+    "name": "Funambol",
+    "location": "Redwood City, California, USA; Pavia, Italy",
+    "founders": "Fabrizio Capobianco",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2010/12/fabrizio-capobianco-steps-down-as-funambol-ceo-prepares-exit/",
+    "lat": 37.4863239,
+    "lng": -122.232523
+  },
+  {
+    "name": "ProntoPro",
+    "location": "Milan",
+    "founders": "Marco Ogliengo and Silvia Wang",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/01/milan-based-professional-marketplace-prontopro-raises-e6-million/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Will",
+    "location": "Milan",
+    "founders": "Imen Boulahrajane and Alessandro Tommasi",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2020/04/will-italys-instagram-born-news-startup-raises-e1-2-million-and-launches-podcast/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "MSing with Trauma / MSing with Crowds",
+    "location": "Romania",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2020/09/meet-europes-15-most-promising-healthcare-startups-at-the-eit-health-innostars-awards-on-sept-30-sponsored/",
+    "lat": 45.9852129,
+    "lng": 24.6859225
+  },
+  {
+    "name": "Leyden Labs",
+    "location": "Netherlands",
+    "founders": "Koenraad Wiedhaup",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/06/leyden-labs-secures-e40-million-to-develop-intranasal-protection-against-influenza-and-coronaviruses/",
+    "lat": 52.2434979,
+    "lng": 5.6343227
+  },
+  {
+    "name": "just-eat.com",
+    "location": "Denmark",
+    "founders": "Jesper Buch",
+    "website": "just-eat.com",
+    "article_url": "https://www.eu-startups.com/2017/12/top-40-business-angels-that-are-rocking-europe-and-help-startups-grow/",
+    "lat": 55.670249,
+    "lng": 10.3333283
+  },
+  {
+    "name": "Bending Spoons",
+    "location": "Milan",
+    "founders": "Luca Ferrari",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/09/milan-based-bending-spoons-scoops-up-vimeo-in-e1-1-billion-cash-deal-will-cuts-follow/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Prima Assicurazioni",
+    "location": "Milan, Italy",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2025/08/italian-insurtech-platform-prima-assicurazioni-joins-axa-group-as-global-insurer-takes-51-stake/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Talent Garden",
+    "location": "Italy",
+    "founders": "Davide Dattol",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2017/01/europes-largest-coworking-network-talent-garden-is-expanding-to-vienna/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Smartness",
+    "location": "Trentino, Italy",
+    "founders": "Luca Rodella",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/05/italian-traveltech-startup-smartness-closes-e47-million-series-b-for-european-expansion/",
+    "lat": 46.1029536,
+    "lng": 11.1297425
+  },
+  {
+    "name": "Bufaga",
+    "location": "Rome",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/12/romes-rising-stars-10-early-stage-startups-you-should-keep-and-eye-on/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Waveful",
+    "location": "Milan, Italy",
+    "founders": "Steven Motta, Dennis Motta",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/09/italian-social-platform-waveful-raises-e1-8-million-to-create-authentic-human-connection-through-shared-passions/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Smartpricing",
+    "location": "Arco, Trentino, Italy",
+    "founders": "Luca Rodella, Eugenio Bancaro, and Tommaso Centonze",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/12/italian-startup-smartpricing-snaps-e13-million-to-increase-hotel-and-apartment-hosts-revenue-through-machine-learning/",
+    "lat": 45.9318708,
+    "lng": 10.9171966
+  },
+  {
+    "name": "Translated",
+    "location": "Europe",
+    "founders": "Marco Trombetti, Isabelle Andrieu, Gianluca Granero",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2018/08/a-different-path-to-growth-vc-pi-campus-invests-in-ai-startups-co-founded-by-researchers-and-designers/",
+    "lat": 51.0,
+    "lng": 10.0
+  },
+  {
+    "name": "DailySpin SL",
+    "location": "Italy",
+    "founders": "Eric Stoop, Jan Verrecas, John Roos, Gustaf Linder, and Niklas Lundstr\u00f6m",
+    "website": "DailySpin.com",
+    "article_url": "https://www.eu-startups.com/2024/08/former-infinileads-owners-launch-new-gambling-comparison-sites-dailyspin-and-ippicaonline-sponsored/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Freeda Media",
+    "location": "Milan, Italy",
+    "founders": "Andrea Scotti Calderini",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2020/02/andrea-calderini-ceo-and-co-founder-of-freeda-media-will-join-the-eu-startups-summit-to-talk-about-how-todays-young-generations-consume-media/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Agricool",
+    "location": "Paris",
+    "founders": "Guillaume Fourdinier and Gonzague Gru",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/06/10-success-stories-showing-that-social-entrepreneurship-can-be-profitable/",
+    "lat": 48.8588897,
+    "lng": 2.320041
+  },
+  {
+    "name": "Maia Ventures",
+    "location": "Milan, Italy",
+    "founders": "Andrea Galassi and David Bassani",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/10/presenting-maia-ventures-and-their-e55-million-fund-looking-to-connect-italys-world-class-food-industry-with-innovation/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "WeRoad",
+    "location": "Milan, Italy",
+    "founders": "Erika De Santi and co-founders",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2022/08/the-weroad-journey-connecting-people-culture-and-stories-interview-with-erika-de-santi/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Digital Magics",
+    "location": "Milan",
+    "founders": "Enrico Gasperini",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2013/07/italian-incubator-digital-magics-listed-on-the-stock-exchange/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Namirial",
+    "location": "Senigallia, Italy",
+    "founders": "Enrico Giacomelli",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/02/the-eu-startups-podcast-interview-with-enrico-giacomelli-the-founder-and-chairman-of-namirial/",
+    "lat": 43.6773749,
+    "lng": 13.2105712
+  },
+  {
+    "name": "We Make Future",
+    "location": "Bologna",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2024/06/we-make-future-the-international-trade-fair-on-ai-tech-digital-innovation-is-back-sponsored/",
+    "lat": 44.4938203,
+    "lng": 11.3426327
+  },
+  {
+    "name": "Openchip",
+    "location": "Barcelona, Spain",
+    "founders": "GTD and the Barcelona Supercomputing Centre-National Supercomputing Centre (BSC-CNS)",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/06/spains-openchip-lands-e115-million-sett-investment-to-strengthen-europes-semiconductor-capabilities/",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "name": "A-Cube",
+    "location": "Milan, Italy",
+    "founders": "Antonino Caccamo",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/05/a-cube-lands-e4-million-to-support-e-invoicing-and-real-time-tax-reporting-expansion-from-italy/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Translated",
+    "location": "Rome, Italy",
+    "founders": "Marco Trombetti",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/07/why-and-how-to-build-a-startup-chapter-1-motivation/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Fleequid",
+    "location": "Olgiate Comasco, Italy",
+    "founders": "Filippo Battaglia and Federico Battaglia",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/05/italian-online-marketplace-for-used-buses-fleequid-raises-e3-million/",
+    "lat": 45.7853256,
+    "lng": 8.9677744
+  },
+  {
+    "name": "Tractable",
+    "location": "London",
+    "founders": "a team of researchers from Oxford and Cambridge",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/10/10-european-startups-tackling-natural-disasters-and-other-emergencies/",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "name": "Archimede",
+    "location": "Syracuse, Italy",
+    "founders": "Riccardo Puglisi, Alessandro Basile, and Ferdinando Anselmi",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2026/06/syracuse-based-archimede-closes-e1-5-million-seed-round-for-remote-infrastructure-monitoring/",
+    "lat": 43.0481221,
+    "lng": -76.1474244
+  },
+  {
+    "name": "Autheos",
+    "location": "Amsterdam",
+    "founders": "",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2019/07/10-european-startups-that-are-disrupting-the-media/",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "name": "Renewcast",
+    "location": "Rome, Italy",
+    "founders": "Fabio Nicol\u00f2",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2025/09/romes-renewcast-secures-e1-million-for-its-renewable-energy-forecasting-tech/",
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  {
+    "name": "Thalia Therapeutics",
+    "location": "UK",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2026/06/uk-biotech-thalia-therapeutics-raises-e3-1-million-and-acquires-sanmirna-therapeutics/",
+    "lat": 54.7023545,
+    "lng": -3.2765753
+  },
+  {
+    "name": "Smartwage",
+    "location": "Italy",
+    "founders": "Marco Gambardella, Felice Cupane, Francesco Varuzza",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2026/04/italys-smartwage-secures-e2-million-to-turn-corporate-welfare-into-real-spending-with-ai-and-digital-payments/",
+    "lat": 41.8719,
+    "lng": 12.5674
+  },
+  {
+    "name": "Satispay",
+    "location": "Milan",
+    "founders": "Alberto Dalmasso",
+    "website": "N/A",
+    "article_url": "https://www.eu-startups.com/2024/11/milan-based-satispay-secures-e60-million-to-expand-its-mobile-payments-and-employee-benefits-platform/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Viceversa",
+    "location": "Milan",
+    "founders": "Matteo Masserdotti and Pedro Salvi",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/05/milan-based-fintech-startup-viceversa-secures-e10-million-to-continue-its-international-expansion/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Vottun",
+    "location": "Barcelona, LA",
+    "founders": "null",
+    "website": "null",
+    "article_url": "https://www.eu-startups.com/2020/10/blockchers-presents-4-exciting-blockchain-startups-working-in-food-water-sponsored/",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "name": "BOOM",
+    "location": "Milan, Italy",
+    "founders": "Jacopo Benedetti, Federico Mattia Dolci and Giacomo Grattirola",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2022/06/milan-based-boom-acquires-lemonone-as-the-demand-for-visual-content-soars/",
+    "lat": 45.4641943,
+    "lng": 9.1896346
+  },
+  {
+    "name": "Leaf Space",
+    "location": "Lomazzo (Como), Italy",
+    "founders": "Jonata Puglia",
+    "website": "",
+    "article_url": "https://www.eu-startups.com/2023/07/italian-spacetech-leaf-space-snaps-e20-million-to-make-the-sky-not-the-limit-for-satellite-connectivity/",
+    "lat": 45.6917739,
+    "lng": 9.0330073
+  }
+]

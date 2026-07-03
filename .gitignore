@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# Databases
+startups.db
+
+# CSV files (optional, but since they are generated data we might want to keep or ignore them, let's keep them if user wants, but ignore temp or large cache files)
+# For now we'll allow committing the CSVs since they are small, but let's ignore __pycache__ and system files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

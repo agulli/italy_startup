@@ -14,19 +14,24 @@ This guide walks you through setting up and running the Italy Startups scraping,
 
 First, configure your Python environment and dependencies:
 
-1. **Create and Activate Virtual Environment**:
+1. **Navigate to the backend directory**:
+   ```bash
+   cd backend
+   ```
+
+2. **Create and Activate Virtual Environment**:
    ```bash
    python3 -m venv venv
    source venv/bin/activate
    ```
 
-2. **Install Python Dependencies**:
+3. **Install Python Dependencies**:
    ```bash
    pip install requests beautifulsoup4 geopy google-genai pydantic python-dotenv
    ```
 
-3. **Configure Environment Variables**:
-   Create a `.env` file in the root directory and add your Gemini API Key:
+4. **Configure Environment Variables**:
+   Create a `.env` file in the `backend/` directory and add your Gemini API Key:
    ```env
    GEMINI_API_KEY="your_gemini_api_key_here"
    ```
@@ -35,7 +40,7 @@ First, configure your Python environment and dependencies:
 
 ## 2. Scraping and Initializing the Database
 
-To crawl the data, resolve locations, and prepare the database:
+Ensure you are inside the `backend/` directory with your virtual environment active:
 
 1. **Scrape Data (LLM Scraper)**:
    This uses Gemini to parse details from EU-Startups articles and saves them to `italy_startups_llm.csv`.
@@ -50,7 +55,7 @@ To crawl the data, resolve locations, and prepare the database:
    ```
 
 3. **Geocode and Build Database**:
-   This reads `italy_startups_llm.csv` (or edit the script to read `italy_startups.csv`), geocodes the cities via the Nominatim API (with a 1.1s rate-limiting delay per request to be polite to the server), saves them to the SQLite database `startups.db`, and outputs `frontend/public/startups.json`.
+   This reads `italy_startups_llm.csv` (or edit the script to read `italy_startups.csv`), geocodes the cities via the Nominatim API (with a 1.1s rate-limiting delay per request to be polite to the server), saves them to the SQLite database `startups.db`, and outputs `../frontend/public/startups.json`.
    ```bash
    python init_db.py
    ```

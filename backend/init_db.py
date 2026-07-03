@@ -95,15 +95,15 @@ def main():
     print(f"Inserted {len(startups)} startups into database.")
     
     # Ensure frontend/public exists
-    os.makedirs('frontend/public', exist_ok=True)
+    os.makedirs('../frontend/public', exist_ok=True)
     
     # Export to JSON for frontend
     # Filter out ones without coordinates for the map
     valid_startups = [s for s in startups if s['lat'] is not None and s['lng'] is not None]
-    with open('frontend/public/startups.json', 'w', encoding='utf-8') as f:
+    with open('../frontend/public/startups.json', 'w', encoding='utf-8') as f:
         json.dump(valid_startups, f, indent=2)
         
-    print(f"Exported {len(valid_startups)} startups with valid coordinates to frontend/public/startups.json")
+    print(f"Exported {len(valid_startups)} startups with valid coordinates to ../frontend/public/startups.json")
     conn.close()
 
 if __name__ == "__main__":
